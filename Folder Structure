@@ -1,0 +1,15 @@
+healthy-food-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── UserForm.js
+│   │   ├── FoodList.js
+│   │   └── FoodCard.js
+│   ├── data/
+│   │   └── foodData.js
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+├── package.json
+└── README.md
